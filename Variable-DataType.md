@@ -65,8 +65,10 @@
 
 
 
-* element들을 link 하는 방식으로 sequence를 표현하는 data type.
-  * link를 이용하므로 가변적이어서 다루기 쉬운 장점이 있으나, 검색이 느림
+* ~~element들을 link 하는 방식으로 sequence를 표현하는 data type.~~
+  * ~~link를 이용하므로 가변적이어서 다루기 쉬운 장점이 있으나, 검색이 느림~~
+
+* 파이썬의 `list`는 linked list가 아니라 linear list, 즉 `array`와 비슷한 것으로 이해하면 된다고 한다
 
 
 
