@@ -1,4 +1,4 @@
-## class & function 01:00 start
+## class & function
 
 class Node() :
     def __init__(self) :
